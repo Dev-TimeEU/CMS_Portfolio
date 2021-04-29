@@ -1,0 +1,38 @@
+{
+  "themes"[
+    {
+      "id": 1,
+      "author": "Dev-Time",
+      "author_contact": [
+        {
+          "name": "Twitter",
+          "response": "@DevKilioZ"
+        },
+        {
+          "name": "Discord",
+          "response": "@Mateo M."
+        }
+      ],
+      "theme": "Default",
+      "price": "0",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "author": "Dev-Time",
+      "author_contact": [
+        {
+          "name": "Twitter",
+          "response": "@DevKilioZ"
+        },
+        {
+          "name": "Discord",
+          "response": "@Mateo M."
+        }
+      ],
+      "theme": "Modern",
+      "price": "0",
+      "url": ""
+    }
+  ]
+}
