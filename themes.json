@@ -16,23 +16,6 @@
       "theme": "default",
       "price": "0",
       "url": ""
-    },
-    {
-      "id": 2,
-      "author": "Dev-Time",
-      "author_contact": [
-        {
-          "name": "Twitter",
-          "response": "@DevKilioZ"
-        },
-        {
-          "name": "Discord",
-          "response": "@Mateo M."
-        }
-      ],
-      "theme": "modern",
-      "price": "0",
-      "url": ""
     }
   ]
 }
